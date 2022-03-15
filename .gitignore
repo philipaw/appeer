@@ -1,4 +1,10 @@
+# node
 node_modules/
 .next/
 .DS_STORE
 .env
+
+# vscode
+.vscode/
+
+.secrets/
